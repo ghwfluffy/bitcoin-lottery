@@ -1,0 +1,11 @@
+Address	Balance	Notes
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa	72.73 BTC	Genesis address
+12cbQLTFMXRnSzktFkuoG3eHoMeFtpTu3S	18.43 BTC	Address used by Satoshi to send the first user-to-user transaction to Hal Finney
+12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX	51.35 BTC
+1HLoD9E4SDFFPDiYfNYnkBLQ85Y51J3Zb1	50.07 BTC
+1FvzCLoTPGANNjWoUo6jUGuAG3wg1w4YjR	50 BTC
+15ubicBBWFnvoZLT7GiU2qxjRaKJPdkDMG	50.06 BTC
+1JfbZRwdDHKZmuiZgYArJZhcuuzuw2HuMu	50 BTC
+1GkQmKAmHtNfnD3LHhTkewJxKHVSta4m2a	50 BTC
+16LoW7y83wtawMg5XmT4M3Q7EdjjUmenjM	50.02 BTC
+1J6PYEzr4CUoGbnXrELyHszoTSz3wCsCaj	50 BTC
