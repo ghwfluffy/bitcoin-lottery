@@ -6,14 +6,14 @@ The app allows choosing seeds and parameters for the psuedo random number genera
 
 ## Background
 
-The anonymous creator of Bitcoin, known only by the alias Satoshi Nakamoto, has tens of millions of USD worth of Bitcoin on the blockchain. There exists cryptographic secrets (very large numbers) associated with these Bitcoin wallet addresses that, if known, would allow using the bitcoins. 
+The anonymous creator of Bitcoin, known only by the alias Satoshi Nakamoto, has tens of billions of USD worth of Bitcoin on the blockchain. There exists cryptographic secrets (very large numbers) associated with these Bitcoin wallet addresses that, if known, would allow using the bitcoins.
 
 Nobody knows who Satoshi is. It could be a single person, a loose collective, a secret organization, a government conspiracy, or even of extraterrestrial origin. The web3 community grants bitcoin an "immaculate conception" because there is no founder of the technology, unlike the very public figures of similar blockchain technologies like Etherium or Solana.
 
 Thus the premise of the app is broken down as follows:
 
-1. There exists a very large amount of bitcoin tied to specific addresses 
-2. Those bitcoins will never move away from those addresses 
-3. Those bitcoins are publicly associated with an immaculate conception, and thus by general consensus have no owner 
-4. The cryptographic secrets that would allow spending those bitcoins are just very large numbers 
+1. There exists a very large amount of bitcoin tied to specific addresses
+2. Those bitcoins will never move away from those addresses
+3. Those bitcoins are publicly associated with an immaculate conception, and thus by general consensus have no owner
+4. The cryptographic secrets that would allow spending those bitcoins are just very large numbers
 5. There is a near zero (but non-zero) chance you could randomly guess one of those large numbers
