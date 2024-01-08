@@ -1,0 +1,11 @@
+[ ] Proprietary license file
+[ ] Godot base project
+[ ] mbedTLS algorithm
+    [ ] Key from binary
+    [ ] Address calculate
+    [ ] dynamic PRNG w/ random seed
+[ ] Test calling mbedTLS from GDScript
+[ ] Main screen
+[ ] DRBG parameter selection
+[ ] Saved private keys
+[ ] Publish to google play store
